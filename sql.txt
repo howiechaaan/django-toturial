@@ -1,5 +1,0 @@
-连接数据库
-C:\Users\ronghui\Desktop\Django\tutorial01\mysite>sqlite3 db.sqlite3
-
-查看表概要
-sqlite> .schema
